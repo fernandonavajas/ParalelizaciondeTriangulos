@@ -1,0 +1,1 @@
+# ParalelizaciondeTriangulos
